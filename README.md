@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="130" alt="Project Logo"/>
+
 
 # 🎥 LLM-Powered YouTube Knowledge Retrieval System
 ### Ask questions from any YouTube video like ChatGPT (RAG + Transcript + Vector Search)
@@ -9,7 +9,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-RAG-green.svg)](https://www.langchain.com/)
 [![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-purple.svg)](https://www.trychroma.com/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](#license)
 
 🔗 **GitHub Repo:** https://github.com/sumits234/LLM-Powered-YouTube-Knowledge-Retrieval-System
 
