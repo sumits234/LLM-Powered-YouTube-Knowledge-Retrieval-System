@@ -1,4 +1,7 @@
 <div align="center">
+
+<img src="assets/logo.png" width="130" alt="Project Logo"/>
+
 # 🎥 LLM-Powered YouTube Knowledge Retrieval System
 ### Ask questions from any YouTube video like ChatGPT (RAG + Transcript + Vector Search)
 
