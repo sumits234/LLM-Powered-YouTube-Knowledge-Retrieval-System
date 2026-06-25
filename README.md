@@ -43,7 +43,7 @@ This project is a **YouTube RAG (Retrieval Augmented Generation) system** that a
 - **Streamlit**
 - **LangChain**
 - **ChromaDB (Vector Database)**
-- **OpenAI / LLM**
+- **LLM**
 - **YouTube Transcript API**
 
 ---
